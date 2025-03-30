@@ -1,2 +1,2 @@
 test:
-	cargo test -- --nocapture ./turnstile-actix-web
+	cargo test -- --nocapture
