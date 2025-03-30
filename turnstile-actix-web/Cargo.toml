@@ -6,7 +6,7 @@ edition = "2021"
 authors = [ "Leaf48" ]
 description = "Cloudflare Turnstile Middleware for Actix Web"
 repository = "https://github.com/Leaf48/Turnstile-Rust"
-keywords = [ "captcha", "cloudflare", "recaptcha", "turnstile", "actix-web", "http", "middleware" ]
+keywords = [ "captcha", "cloudflare", "turnstile", "actix-web", "middleware" ]
 license = "Apache-2.0"
 readme = "../README.md"
 
